@@ -212,7 +212,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [NAYANJ7]((https://github.com/NAYANJ7))
-- LinkedIn: [Nayan Jain](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Nayan Jain]([(https://www.linkedin.com/in/nayan-jain007/)])
 - Email: nayanjain24003@gmail.com
 
 ## 🙏 Acknowledgments
