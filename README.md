@@ -21,16 +21,6 @@ A comprehensive web application built with Streamlit that performs Capital Asset
 - **Portfolio Summary**: Aggregate portfolio metrics and insights
 - **Educational Content**: Built-in explanations of CAPM concepts and metrics
 
-## 📸 Screenshots
-
-### Main Dashboard
-![Dashboard Overview](screenshots/dashboard.png)
-
-### Risk-Return Analysis
-![Risk Return Plot](screenshots/risk-return.png)
-
-### Individual Stock Analysis
-![Stock Analysis](screenshots/stock-analysis.png)
 
 ## 🚀 Getting Started
 
@@ -81,10 +71,7 @@ capm-stock-analysis/
 ├── CAPM_function.py        # Helper functions for calculations
 ├── requirements.txt        # Python dependencies
 ├── README.md              # Project documentation
-└── screenshots/           # Application screenshots
-    ├── dashboard.png
-    ├── risk-return.png
-    └── stock-analysis.png
+
 ```
 
 ## 🧮 How CAPM Works
@@ -224,9 +211,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [NAYANJ7]((https://github.com/NAYANJ7))
+- LinkedIn: [Nayan Jain](https://linkedin.com/in/yourprofile)
+- Email: nayanjain24003@gmail.com
 
 ## 🙏 Acknowledgments
 
