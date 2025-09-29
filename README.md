@@ -21,7 +21,6 @@ A comprehensive web application built with Streamlit that performs Capital Asset
 - **Portfolio Summary**: Aggregate portfolio metrics and insights
 - **Educational Content**: Built-in explanations of CAPM concepts and metrics
 
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -33,13 +32,13 @@ A comprehensive web application built with Streamlit that performs Capital Asset
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/capm-stock-analysis.git
+git clone https://github.com/NAYANJ7/capm-stock-analysis.git
 cd capm-stock-analysis
 ```
 
 2. Install required packages:
 ```bash
-pip install -r requirements.txt
+pip install streamlit pandas numpy yfinance plotly
 ```
 
 3. Run the application:
@@ -54,12 +53,15 @@ http://localhost:8501
 
 ## 📦 Dependencies
 
-```txt
-streamlit>=1.28.0
-pandas>=2.0.0
-numpy>=1.24.0
-yfinance>=0.2.28
-plotly>=5.17.0
+- streamlit >= 1.28.0
+- pandas >= 2.0.0
+- numpy >= 1.24.0
+- yfinance >= 0.2.28
+- plotly >= 5.17.0
+
+Install all dependencies at once:
+```bash
+pip install streamlit pandas numpy yfinance plotly
 ```
 
 ## 📁 Project Structure
@@ -69,9 +71,7 @@ capm-stock-analysis/
 │
 ├── CAPM_return.py          # Main Streamlit application
 ├── CAPM_function.py        # Helper functions for calculations
-├── requirements.txt        # Python dependencies
-├── README.md              # Project documentation
-
+└── README.md              # Project documentation
 ```
 
 ## 🧮 How CAPM Works
@@ -210,10 +210,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [NAYANJ7]((https://github.com/NAYANJ7))
-- LinkedIn: [Nayan Jain]([(https://www.linkedin.com/in/nayan-jain007/)])
-- Email: nayanjain24003@gmail.com
+**Nayan Jain**
+- GitHub: [@NAYANJ7](https://github.com/NAYANJ7)
+- LinkedIn: [Nayan Jain](https://www.linkedin.com/in/nayan-jain007/)
 
 ## 🙏 Acknowledgments
 
